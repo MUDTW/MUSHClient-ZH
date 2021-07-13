@@ -22,8 +22,8 @@ _令人讚嘆的免費 MUD 客戶端軟體 —— [MUSHclient](http://www.gammon
 
 - `locale_notes.txt`: 語系相關說明
 - `Localize_template.lua`: 建立翻譯檔案的模板文件
-- `en.dll`: 語系資源文件 (供解析度 1024x768 以上畫面使用)
-- `en_small.dll`: 語系資源文件 (供解析度 1024x768 以下畫面使用)
+- `en.dll`: 語系資源文件（供解析度 1024x768 以上畫面使用）
+- `en_small.dll`: 語系資源文件（供解析度 1024x768 以下畫面使用）
 - `count_locale_usage.lua`: Lua 統計腳本
 - `detect_locale_changes.lua`: Lua 檢查腳本
 
