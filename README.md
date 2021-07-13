@@ -9,27 +9,37 @@
 <div align="center">
   <img src="https://i.imgur.com/RFvke7t.png" alt="MUSHclient ZH" height="150px">
 
-# MUSHclient 繁體中文漢化包
+# MUSHclient 漢化包
 
-🇹🇼 _Locale files in Traditional Chinese for the awesome FreeWare MUD client - [MUSHclient](http://www.gammon.com.au/mushclient/mushclient.htm)_<br/>
-_令人讚嘆的免費 MUD 客戶端軟體 —— [MUSHclient](http://www.gammon.com.au/mushclient/mushclient.htm) 的繁體中文漢化包_
+🇹🇼 _Locale files in Simplified/Traditional Chinese for the awesome FreeWare MUD client - [MUSHclient](http://www.gammon.com.au/mushclient/mushclient.htm)_<br/>
+_令人讚嘆的免費 MUD 客戶端軟體 —— [MUSHclient](http://www.gammon.com.au/mushclient/mushclient.htm) 的簡體／繁體中文漢化包_
 
 </div>
 
-## 關於漢化
+## 畫面截圖
 
-根據作者 Nick Gammon 提供的說明，關於 MUSHclient 的語系本地化文件都存放於安裝路徑下的 `/locale` 目錄中，相關檔案有：
+<div align="center">
+  <img src="https://i.imgur.com/sbMXpjS.png" alt="Screentshot">
+</div>
 
-- `locale_notes.txt`: 語系相關說明
-- `Localize_template.lua`: 建立翻譯檔案的模板文件
-- `en.dll`: 語系資源文件（供解析度 1024x768 以上畫面使用）
-- `en_small.dll`: 語系資源文件（供解析度 1024x768 以下畫面使用）
-- `count_locale_usage.lua`: Lua 統計腳本
-- `detect_locale_changes.lua`: Lua 檢查腳本
+## 使用說明
 
-翻譯時根據語系縮寫來命名檔案，如：`zh.dll`、`zh_small.dll` 和 `zh.lua`
+將專案中的下述檔案，放置到 MUSHclient 安裝目錄（通常是 `C:\Program Files\MUSHclient\`）下的 `/locale` 資料夾中：
 
-## 如何使用
+- `[CODE].lua`
+- `[CODE].dll`
+- `[CODE]_small.dll`
+
+其中 `[CODE]` 為語系代碼，在本專案中簡體中文採用 `CN` 作為語系代碼，而繁體中文則採用 `ZH` 作為語系代碼，你可以在下載之後自行更換成其他不衝突的語系代碼。在放置完檔案之後，於 MUSHclient 中設定所要使用的語系代碼，關閉軟體後重新開啟即可。
+
+## 翻譯須知
+
+### 如何翻譯
+
+### 文字規範
+
+- `&File` > `檔案(&F)` > 檔案(<u>F</u>)
+- `&Open...` > `開啟(&O)...` > 開啟(<u>O</u>)...
 
 ## 授權許可
 

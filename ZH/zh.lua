@@ -8,19 +8,19 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/ActivityView.cpp:122
     ["Activity List"] =
-      "",
+      "πC¿∏¶C™Ì",
 
   -- /cygdrive/c/source/mushclient/DDV_validation.cpp:41
     ["This field may not be blank"] =
-      "",
+      "§∫Æe§£Ø‡¨∞™≈",
 
   -- /cygdrive/c/source/mushclient/Finding.cpp:173
     ["Finding..."] =
-      "",
+      "¨dß‰§§°K°K",
 
   -- /cygdrive/c/source/mushclient/MUSHclient.cpp:449
     ["OLE initialization failed"] =
-      "",
+      "OLE ™Ï©l§∆•¢±—",
 
   -- /cygdrive/c/source/mushclient/MUSHclient.cpp:608
     ["Unable to load main frame window"] =
@@ -32,7 +32,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/MUSHclient.cpp:998
     ["This will end your MUSHclient session."] =
-      "",
+      "ΩT©w≠n∞h•X MUSHclient ∂‹°H",
 
   -- /cygdrive/c/source/mushclient/Mapping.cpp:79
     ["Warning - mapping has not been turned on because you pressed 'Cancel'.\n\nDo you want mapping enabled now?"] =
@@ -40,11 +40,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/TextDocument.cpp:284
     ["Unable to read file"] =
-      "",
+      "µL™k≈™®˙§Â•Û",
 
   -- /cygdrive/c/source/mushclient/TextDocument.cpp:435
     ["Untitled"] =
-      "",
+      "µLº–√D",
 
   -- /cygdrive/c/source/mushclient/TextView.cpp:678
 
@@ -52,15 +52,15 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/sendvw.cpp:2271
     ["Spell check ..."] =
-      "",
+      "´˜ºg¿À¨d§§°K°K",
 
   -- /cygdrive/c/source/mushclient/TextView.cpp:917
     ["&Send To World\tShift+Ctrl+S"] =
-      "",
+      "µo∞e®ÏπC¿∏(&S)\tShift+Ctrl+S",
 
   -- /cygdrive/c/source/mushclient/TextView.cpp:1137
     ["&Flip To World\tCtrl+Alt+Space"] =
-      "",
+      "§¡¥´®ÏπC¿∏(&F)\tCtrl+Alt+Space",
 
   -- /cygdrive/c/source/mushclient/TextView.cpp:1339
     ["Unterminated element (\"<\" not followed by \">\")"] =
@@ -122,7 +122,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/Utilities.cpp:1046
     ["Closing network connection ..."] =
-      "",
+      "•ø¶b√ˆ≥¨∫Ù∏Ù≥s±µ......",
 
   -- /cygdrive/c/source/mushclient/Utilities.cpp:2534
     ["No match"] =
@@ -308,11 +308,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/RecallDlg.cpp:134
     ["Window contents have changed. Save changes?"] =
-      "",
+      "µ¯µ°?Æe§w≈‹ßÛ°A¨Oß_´O¶s≈‹ßÛ°H",
 
   -- /cygdrive/c/source/mushclient/dialogs/TextAttributesDlg.cpp:165
     [" No action."] =
-      "",
+      "®S¶≥∞ ß@°C",
 
   -- /cygdrive/c/source/mushclient/dialogs/TextAttributesDlg.cpp:280
     ["** WARNING - length discrepancy **"] =
@@ -376,11 +376,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/EditVariable.cpp:113
     ["Edit variable"] =
-      "",
+      "ΩsøË≈‹º∆",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/TimerDlg.cpp:131
     ["The timer interval must be greater than zero."] =
-      "",
+      "Æ…≠p™∫∂°πj•≤∂∑§j©Ûπs°C",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/TimerDlg.cpp:138
     ["The timer offset must be less than the timer period."] =
@@ -416,7 +416,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/aliasdlg.cpp:123
     ["The alias cannot be blank."] =
-      "",
+      "ßO¶W§£Ø‡¨∞™≈°C",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/aliasdlg.cpp:295
     ["The alias contents cannot be blank unless you specify a script subroutine."] =
@@ -664,7 +664,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/triggdlg.cpp:773
     ["Variable:"] =
-      "",
+      "≈‹º∆:",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/triggdlg.cpp:775
     ["Pane:"] =
@@ -676,11 +676,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/doc.cpp:777
     ["Written by Nick Gammon."] =
-      "",
+      "•ª≥n≈È¨O•— Nick Gammon ©“∂}µo.",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:789
     ["For information and assistance about MUSHclient visit our forum at:"] =
-      "",
+      "¶p™G∑Q≠n¿Ú®˙ßÛ¶h∏Í∞TªP¿∞ßU°AΩ–≥y≥Xß⁄≠Ã™∫Ω◊æ¬:",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:791
     ["MUSHclient forum"] =
@@ -726,11 +726,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/doc.cpp:3581
     ["Sending to world..."] =
-      "",
+      "µo∞e®ÏπC¿∏°K°K",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:3583
     ["Sending..."] =
-      "",
+      "µo∞e§§°K°K",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:3700
     ["An error occurred when sending/pasting to this world"] =
@@ -740,11 +740,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/doc.cpp:3871
     ["Cannot open the Clipboard"] =
-      "",
+      "µL™k∂}±“∞≈∂K√Ø",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:3816
     ["Unable to get Clipboard data"] =
-      "",
+      "µL™k¿Ú®˙∞≈∂K√Ø§§™∫∏ÍÆ∆",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:3828
 
@@ -800,7 +800,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/doc.cpp:4690
     ["Permission denied"] =
-      "",
+      "≈v≠≠§£®¨",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:4691
     ["Address already in use"] =
@@ -1012,7 +1012,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/doc.cpp:4967
     ["Recalling..."] =
-      "",
+      "¥£®˙§§......",
 
   -- /cygdrive/c/source/mushclient/doc.cpp:6558
 
@@ -1038,15 +1038,15 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/mainfrm.cpp:487
     ["Ready"] =
-      "",
+      "¥Né´",
 
   -- /cygdrive/c/source/mushclient/doc_construct.cpp:800
     ["Your world name cannot be blank."] =
-      "",
+      "πC¿∏¶W∫Ÿ§£Ø‡¨∞™≈°C",
 
   -- /cygdrive/c/source/mushclient/doc_construct.cpp:806
     ["The world TCP/IP address cannot be blank."] =
-      "",
+      "πC¿∏¶¯™Aæπ¶Ïß}§£Ø‡¨∞™≈°C",
 
   -- /cygdrive/c/source/mushclient/evaluate.cpp:600
     ["Replace existing triggers?\nIf you reply \"No\", then triggers from the file will be added to existing triggers"] =
@@ -1140,11 +1140,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/mushview.cpp:3904
     ["Printing world..."] =
-      "",
+      "¶C¶LπC¿∏∏Í∞T§§......",
 
   -- /cygdrive/c/source/mushclient/mushview.cpp:4090
     ["Printing cancelled"] =
-      "",
+      "¶C¶L§w®˙Æ¯",
 
   -- /cygdrive/c/source/mushclient/mushview.cpp:4581
     ["No URL selected"] =
@@ -1634,11 +1634,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/timers.cpp:314
     ["Reconnecting ..."] =
-      "",
+      "≠´∑s≥sΩu§§......",
 
   -- /cygdrive/c/source/mushclient/world_debug.cpp:832
     ["Script:"] =
-      "",
+      "∏}•ª:",
 
   -- /cygdrive/c/source/mushclient/world_debug.cpp:833
     ["-------(start script)----------"] =
@@ -1776,7 +1776,7 @@ messages = {
     ["Welcome to MUSHclient, version %s"] =
       function (a)
 
-        return ""
+        return "≈w™Ô®œ•Œ MUSHclient " .. a .. ""
       end,  -- function
 
   -- /cygdrive/c/source/mushclient/MUSHclient.cpp:852
@@ -2967,7 +2967,7 @@ messages = {
     ["Welcome to MUSHclient version %s!"] =
       function (a)
 
-        return ""
+        return "≈w™Ô®œ•Œ MUSHclient " .. a ..""
       end,  -- function
 
   -- /cygdrive/c/source/mushclient/doc.cpp:780
@@ -5292,11 +5292,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:271
     ["Seq"] =
-      "",
+      "∂∂ß«",
 
   -- /cygdrive/c/source/mushclient/ActivityView.cpp:109
     ["World"] =
-      "‰∏ñÁïå",
+      "πC¿∏¶W∫Ÿ",
 
   -- /cygdrive/c/source/mushclient/ActivityView.cpp:110
     ["New"] =
@@ -5308,7 +5308,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/ActivityView.cpp:112
     ["Status"] =
-      "",
+      "™¨∫A",
 
   -- /cygdrive/c/source/mushclient/ActivityView.cpp:113
     ["Since"] =
@@ -5358,7 +5358,7 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:614
     ["Group"] =
-      "",
+      "∏s≤’",
 
   -- /cygdrive/c/source/mushclient/dialogs/chat/ChatListDlg.cpp:166
     ["From IP"] =
@@ -5408,19 +5408,19 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/plugins/PluginsDlg.cpp:108
     ["Purpose"] =
-      "",
+      "ß@•Œ",
 
   -- /cygdrive/c/source/mushclient/dialogs/plugins/PluginsDlg.cpp:109
     ["Author"] =
-      "‰ΩúËÄÖ",
+      "ß@éÕ",
 
   -- /cygdrive/c/source/mushclient/dialogs/plugins/PluginsDlg.cpp:110
     ["Language"] =
-      "Ë™ûË®Ä",
+      "µ{¶°ªy®•",
 
   -- /cygdrive/c/source/mushclient/dialogs/plugins/PluginsDlg.cpp:111
     ["File"] =
-      "Ê™îÊ°à",
+      "¿…Æ◊",
 
   -- /cygdrive/c/source/mushclient/dialogs/plugins/PluginsDlg.cpp:112
     ["Enabled"] =
@@ -5428,11 +5428,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/plugins/PluginsDlg.cpp:113
     ["Ver"] =
-      "ÁâàÊú¨",
+      "™©•ª",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:228
     ["Alias"] =
-      "Âà•Âêç",
+      "ßO¶W",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:231
 
@@ -5440,11 +5440,11 @@ messages = {
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:613
     ["Label"] =
-      "Ê®ôÁ±§",
+      "",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:270
     ["Trigger"] =
-      "Ëß∏Áôº",
+      "ƒ≤µo",
 
   -- /cygdrive/c/source/mushclient/dialogs/world_prefs/configuration.cpp:610
     ["Type"] =
