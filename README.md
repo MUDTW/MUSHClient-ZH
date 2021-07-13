@@ -12,7 +12,7 @@
 # MUSHclient 繁體中文漢化包
 
 🇹🇼 _Locale files in Traditional Chinese for the awesome FreeWare MUD client - [MUSHclient](http://www.gammon.com.au/mushclient/mushclient.htm)_<br/>
-_令人讚嘆的免費 MUD 客戶端軟體 —— MUSHClient 繁體中文漢化包_
+_令人讚嘆的免費 MUD 客戶端軟體 —— [MUSHclient](http://www.gammon.com.au/mushclient/mushclient.htm) 繁體中文漢化包_
 
 </div>
 
