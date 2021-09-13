@@ -24,7 +24,7 @@ _令人讚嘆的免費 MUD 客戶端軟體 —— [MUSHclient](http://www.gammon
 
 ## 使用說明
 
-將專案中的下述檔案，放置到 MUSHclient 安裝目錄（通常是 `C:\Program Files\MUSHclient\`）下的 `/locale` 資料夾中：
+將專案中的下述檔案，放置到 MUSHclient 安裝目錄（通常是 `C:\Program Files\MUSHclient\`）下的 `locale` 資料夾中：
 
 - `[CODE].lua`
 - `[CODE].dll`
@@ -35,6 +35,29 @@ _令人讚嘆的免費 MUD 客戶端軟體 —— [MUSHclient](http://www.gammon
 ## 翻譯須知
 
 ### 如何翻譯
+
+對於 `[CODE].lua` 腳本檔案來說，只需要使用 [Sublime Text](https://www.sublimetext.com/)、[Notepad++](https://notepad-plus-plus.org/)、[Visual Studio Code](https://code.visualstudio.com/)）這類文字編輯器開啟，針對要進行翻譯的部分做如下修改：
+
+```lua
+-- 翻譯前
+-- /cygdrive/c/source/mushclient/ActivityView.cpp:122
+  ["Activity List"] =
+    "",
+
+-- 翻譯後
+-- /cygdrive/c/source/mushclient/ActivityView.cpp:122
+  ["Activity List"] =
+    "遊戲列表",
+```
+
+對於 `[CODE].dll` 和 `[CODE]_small.dll` 檔案則必須使用 [Resource Hacker](http://www.angusj.com/resourcehacker/) 這類資源替換工具開啟，編輯其中 Menu 和 Dialog 目錄下的表單及對話框樣式：
+
+<div align="center">
+  <img src="https://i.imgur.com/tBxzEsj.png" alt="Editing with Resource Hacker">
+</div>
+
+> 雖然作者 Nick Gammon 建議可以使用 Visual Studio 進行編輯，但會使選單環境出現錯誤而不見，因此並不推薦使用。
+
 
 ### 文字規範
 
